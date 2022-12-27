@@ -1,0 +1,99 @@
+
+h1 {
+    border-bottom: 2px solid var(--blue);
+}
+.seyf {
+    color: var(--blue);
+    background-color: var(--white);
+    padding: 15px;
+}
+button {
+
+    background-color: var(--white);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    padding: 5px;
+}  
+
+
+.winner1 {
+    color: white;
+    height: 10rem;
+    width: 20rem;
+    background-color: rgb(54, 46, 46);
+    color: white;
+    position: relative;
+    left: 110px;
+}
+.winner2 {
+    color: white;
+    height: 10rem;
+    width: 20rem;
+    background-color: rgb(54, 46, 46);
+    position: relative;
+    left: 558px;
+    top: -11rem; 
+}
+#qwe {
+    color: white;
+    height: 10rem;
+    width: 20rem;
+    background-color: rgb(54, 46, 46);
+    position: relative;
+    left: 990px;
+    top: -22rem; 
+}
+.a1 {
+    display: flex;
+    margin: 10px;
+    position: relative;
+    left: 10rem;
+    top: -22rem;
+ }
+.rang1{ 
+    margin-left: 600px;
+    width: 150px;
+    height: 40px;
+   background-color: blue
+}
+button {
+    width: 150px;
+    height: 40px;
+}
+.nmaga {
+    margin-left: 600px;
+}
+.lol {
+    margin-left: 470px;
+}
+.tot {
+    margin-left: 450px;
+    margin-top: -16;
+}
+.sr {
+    position: relative;
+    left: 69px;
+    top: 60px;
+}
+.sr1 {
+    position: relative;
+    left: 69px;
+    top: 60px;
+}
+.sr2 {
+    position: relative;
+    left: 69px;
+    top: 60px;
+}
+.b {
+    margin-left: 1040px;
+    margin-top: -410px;
+}
+.d {
+    position: relative;
+    left: 38rem;
+    top: -5rem;
+}
+.g {
+    background-color: rgb(113, 124, 105);
+}
